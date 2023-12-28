@@ -1,0 +1,16 @@
+//shift
+export const GET_SHIFTS = "GET_SHIFTS"
+export const APPLIED_SHIFTS = "APPLIED_SHIFTS"
+export const BIDS_RESULT = "BIDS_RESULT"
+export const BIDS_RESULT_REJECTED = "BIDS_RESULT_REJECTED"
+export const BIDS_RESULT_COMPLETED = "BIDS_RESULT_COMPLETED"
+export const KEYWORDS = "KEYWORDS"
+export const FACILITY = "FACILITY"
+export const RUNNING_SHIFT = "RUNNING_SHIFT"
+export const EVENTS_DATA = "EVENTS_DATA"
+
+//movies
+export const LOADING = "LOADING"
+export const MOVIES_LIST = "MOVIES_LIST"
+export const MOVIES_DETAIL = "MOVIES_DETAIL"
+export const SEARCH_MOVIES_LIST = "SEARCH_MOVIES_LIST"
